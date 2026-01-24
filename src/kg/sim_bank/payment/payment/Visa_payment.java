@@ -1,4 +1,4 @@
-package kg.sim_bank.payment;
+package kg.sim_bank.payment.payment;
 
 public class Visa_payment {
     static void main(String[] args) {
